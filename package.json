@@ -1,0 +1,14 @@
+{
+  "name": "hooker",
+  "repository": "https://github.com/itbrandonsilva/hooker.git",
+  "version": "1.0.0",
+  "description": "Simple tool to setup a pull hook.",
+  "author": "Brandon Silva",
+  "dependencies": {
+    "daemon": "^1.1.0",
+    "yargs": "^3.8.0"
+  },
+  "bin": {
+    "hooker": "./src/hooker.js"
+  }
+}
