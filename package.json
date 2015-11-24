@@ -1,7 +1,7 @@
 {
   "name": "hooker",
   "repository": "https://github.com/itbrandonsilva/hooker.git",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Simple tool to setup a pull hook.",
   "author": "Brandon Silva",
   "dependencies": {
